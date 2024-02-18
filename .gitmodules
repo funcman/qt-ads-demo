@@ -1,0 +1,4 @@
+[submodule "3rd/qt-ads"]
+	path = 3rd/qt-ads
+	url = https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System.git
+	branch = 4.2.1
