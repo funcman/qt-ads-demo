@@ -1,5 +1,3 @@
-set_runenv("QT_DIR", "C:/Qt/6.6.1/msvc2019_64")
-
 add_rules("mode.debug", "mode.release")
 
 package("qt-ads")
