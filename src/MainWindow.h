@@ -10,8 +10,7 @@ class MainWindow;
 }
 QT_END_NAMESPACE
 
-class MainWindow : public QMainWindow
-{
+class MainWindow : public QMainWindow {
     Q_OBJECT
 
 public:
@@ -19,8 +18,8 @@ public:
     ~MainWindow();
 
 private:
-    Ui::MainWindow *ui;
-    ads::CDockManager* m_DockManager;
+    Ui::MainWindow* ui;
+    ads::CDockManager* dockManager_;
 };
 
-#endif // MAINWINDOW_H
+#endif//MAINWINDOW_H

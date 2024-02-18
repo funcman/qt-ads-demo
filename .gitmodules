@@ -2,3 +2,7 @@
 	path = 3rd/qt-ads
 	url = https://github.com/githubuser0xFFFF/Qt-Advanced-Docking-System.git
 	branch = 4.2.1
+
+[submodule "3rd/libirrlicht"]
+	path = 3rd/libirrlicht
+	url = https://github.com/funcman/libirrlicht.git
